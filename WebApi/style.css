@@ -84,3 +84,13 @@ pre {
   left: 81%;
   top: 84%;
 }
+
+.ex4 {
+  font-size: x-large;
+  font-weight: bold;
+  line-height: 40px;
+}
+
+img {
+  width: 160px;
+}
